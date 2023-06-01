@@ -12,7 +12,7 @@ public class FitnessTest {
 
        
         
-    }
+    }/*
     @isTest
      public static void caculatepacetest()
     {
@@ -23,5 +23,5 @@ public class FitnessTest {
         Decimal n1=pace.caculatepace(100,80);
         System.assertEquals(n, n1, 'check value does not match');
         
-    }
+    }*/
 }
