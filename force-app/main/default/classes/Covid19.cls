@@ -4,6 +4,7 @@ public class Covid19 {
     public static Integer recoveredcountry=0;
     
     //added comment to test changes from main org
+    //more deletion
    /* public Covid19()
     {
         system.debug('blank construtor is called');
